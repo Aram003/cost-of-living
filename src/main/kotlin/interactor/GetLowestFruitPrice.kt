@@ -1,7 +1,5 @@
 package interactor
 
-import model.CityEntity
-
 class GetLowestFruitPrice(private val dataSource: CostOfLivingDataSource) {
 
 
